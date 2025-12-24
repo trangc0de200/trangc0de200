@@ -22,7 +22,7 @@
 
   <div align="center">
     <a href="https://github.com/trangc0de200">
-      <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=trangc0de200&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true&include_all_commits=true" />
+      <img align="center" width="46%" src="https://gh-readme-profile.vercel.app/api?username=trangc0de200&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true&include_all_commits=true" />
     </a>
     <a href="https://github.com/trangc0de200">
       <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&langs_count=8" />
