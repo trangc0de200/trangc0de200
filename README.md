@@ -1,5 +1,4 @@
 <div align="center">
-
   <a href="https://github.com/trangc0de200">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init('Văn+Trang');Loading+System+Architecture...;Optimizing+Blockchain+Nodes...;Status:+Ready+to+Deploy!&font=Fira+Code&center=true&size=24&width=600&height=50&color=f8f8f2&background=282a36&vCenter=true&pause=1000" alt="Typing SVG" />
   </a>
@@ -30,7 +29,14 @@
   </div>
   
   <br/>
+<h3 align="center">🛡️ Engineering Principles</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean_Architecture-282a36?style=for-the-badge&logo=clean-code&logoColor=50fa7b" />
+  <img src="https://img.shields.io/badge/SOLID_Principles-282a36?style=for-the-badge&logo=opsgenie&logoColor=ff79c6" />
+  <img src="https://img.shields.io/badge/Test_Driven_Development-282a36?style=for-the-badge&logo=jest&logoColor=8be9fd" />
+  <img src="https://img.shields.io/badge/Microservices-282a36?style=for-the-badge&logo=docker&logoColor=bd93f9" />
+</p>
   <h3 align="center">⚡ System Architecture & Tech Stack</h3>
   
   <table border="0" width="100%">
@@ -84,6 +90,15 @@
       <img src="https://img.shields.io/badge/SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="28"/>
     </td>
   </tr>
+    <tr>
+      <td width="15%" align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
+        <br/><b style="font-size:12px">Tools</b>
+      </td>
+      <td width="85%" valign="middle">
+        <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,figma,notion,discord,linux,apple,arch&perline=15&theme=dark" />
+      </td>
+    </tr>
   </table>
 
   <br/>
@@ -95,4 +110,16 @@
 
   <img src="https://komarev.com/ghpvc/?username=trangc0de200&style=flat-square&color=bd93f9&label=PROFILE+VIEWS" />
   
+  <h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
+<a href="https://web.minhbee.vn" target="blank"><img src="https://img.shields.io/badge/Website-MINH%20BEE-bd93f9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://fb.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://views.whatilearened.today/views/github/trangc0de200/views.svg" alt="Views" />
+</p>
 </div>
