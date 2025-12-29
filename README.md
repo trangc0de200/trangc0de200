@@ -2,9 +2,7 @@
   <a href="https://github.com/trangc0de200">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init('Văn+Trang');Loading+System+Architecture...;Optimizing+Blockchain+Nodes...;Status:+Ready+to+Deploy!&font=Fira+Code&center=true&size=24&width=600&height=50&color=f8f8f2&background=282a36&vCenter=true&pause=1000" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
-
+<br/><br/>
   <p>
     <a href="https://github.com/trangc0de200">
       <img src="https://img.shields.io/badge/Role-Senior_Developer-ff79c6?style=for-the-badge&logo=robot-framework&logoColor=white" />
@@ -16,9 +14,7 @@
       <img src="https://img.shields.io/badge/Location-Vietnam-50fa7b?style=for-the-badge&logo=google-maps&logoColor=black" />
     </a>
   </p>
-
   <br/>
-
   <div align="center">
     <a href="https://github.com/trangc0de200">
       <img align="center" width="46%" src="https://gh-readme-profile.vercel.app/api?username=trangc0de200&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true&include_all_commits=true" />
@@ -27,16 +23,15 @@
       <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&langs_count=8" />
     </a>
   </div>
-  
   <br/>
 <h3 align="center">🛡️ Engineering Principles</h3>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Clean_Architecture-282a36?style=for-the-badge&logo=clean-code&logoColor=50fa7b" />
   <img src="https://img.shields.io/badge/SOLID_Principles-282a36?style=for-the-badge&logo=opsgenie&logoColor=ff79c6" />
   <img src="https://img.shields.io/badge/Test_Driven_Development-282a36?style=for-the-badge&logo=jest&logoColor=8be9fd" />
   <img src="https://img.shields.io/badge/Microservices-282a36?style=for-the-badge&logo=docker&logoColor=bd93f9" />
 </p>
+<br/>
   <h3 align="center">⚡ System Architecture & Tech Stack</h3>
   
   <table border="0" width="100%">
@@ -105,18 +100,14 @@
 
   <h3 align="center">📈 Coding Frequency</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=trangc0de200&theme=react-dark&hide_border=true&area=true&bg_color=282a36" width="100%" />
-
-  <br/><br/>
-
+<br/><br/>
   <img src="https://komarev.com/ghpvc/?username=trangc0de200&style=flat-square&color=bd93f9&label=PROFILE+VIEWS" />
-  
   <h3 align="center">📫 Connect with me</h3>
-
 <p align="center">
 <a href="https://web.minhbee.vn" target="blank"><img src="https://img.shields.io/badge/Website-MINH%20BEE-bd93f9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://fb.com/your-profile" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-profile" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vantrang.work@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://fb.com/trangc0de200" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/trangc0de200" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"> 
