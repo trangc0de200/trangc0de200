@@ -63,6 +63,15 @@
     </tr>
     <tr>
       <td width="15%" align="center" valign="middle">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+        <br/><b style="font-size:12px">Database & Cache</b>
+      </td>
+      <td width="85%" valign="middle">
+        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch,cassandra,firebase,supabase,planetscale,dynamodb&perline=15&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td width="15%" align="center" valign="middle">
         <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="40" height="40" />
         <br/><b style="font-size:12px">Web3</b>
       </td>
