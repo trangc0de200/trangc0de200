@@ -71,16 +71,19 @@
       </td>
     </tr>
     <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">Web3</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=solidity,rust,ethers,ipfs,hardhat,truffle,metamask" />
-        <img src="https://img.shields.io/badge/BSC-F0B90B?style=flat&logo=binance&logoColor=black&height=40" height="40"/>
-        <img src="https://img.shields.io/badge/SOL-9945FF?style=flat&logo=solana&logoColor=white&height=40" height="40"/>
-      </td>
-    </tr>
+    <td width="15%" align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="40" height="40" />
+      <br/><b style="font-size:12px">Web3</b>
+    </td>
+    <td width="85%" valign="middle">
+      <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs&theme=dark" />
+      <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/Truffle-5E463A?style=for-the-badge&logo=truffle&logoColor=white" height="28"/>
+      <img src="https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=black" height="28"/>
+      <img src="https://img.shields.io/badge/SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="28"/>
+    </td>
+  </tr>
   </table>
 
   <br/>
