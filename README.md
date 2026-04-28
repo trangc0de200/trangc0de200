@@ -1,116 +1,170 @@
+
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:7c3aed&height=180&section=header&text=Văn%20Trang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Full-Stack%20%26%20Web3%20Developer&descAlignY=55&descSize=16" />
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+scalable+digital+products;Designing+clean+system+architecture;Shipping+reliable+full-stack+and+blockchain+solutions" alt="Typing SVG" />
+</p>
+
+<p>
   <a href="https://github.com/trangc0de200">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=System.init('Văn+Trang');Loading+System+Architecture...;Optimizing+Blockchain+Nodes...;Status:+Ready+to+Deploy!&font=Fira+Code&center=true&size=24&width=600&height=50&color=f8f8f2&background=282a36&vCenter=true&pause=1000" alt="Typing SVG" />
+    <img src="https://img.shields.io/badge/GitHub-trangc0de200-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-<br/><br/>
-  <p>
-    <a href="https://github.com/trangc0de200">
-      <img src="https://img.shields.io/badge/Role-Senior_Developer-ff79c6?style=for-the-badge&logo=robot-framework&logoColor=white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Stack-Web3_%2F_FullStack-bd93f9?style=for-the-badge&logo=ethereum&logoColor=white" />
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Location-Vietnam-50fa7b?style=for-the-badge&logo=google-maps&logoColor=black" />
-    </a>
-  </p>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/trangc0de200">
-      <img align="center" width="46%" src="https://gh-readme-profile.vercel.app/api?username=trangc0de200&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&count_private=true&include_all_commits=true" />
-    </a>
-    <a href="https://github.com/trangc0de200">
-      <img align="center" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&langs_count=8" />
-    </a>
-  </div>
-  <br/>
-<h3 align="center">🛡️ Engineering Principles</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean_Architecture-282a36?style=for-the-badge&logo=clean-code&logoColor=50fa7b" />
-  <img src="https://img.shields.io/badge/SOLID_Principles-282a36?style=for-the-badge&logo=opsgenie&logoColor=ff79c6" />
-  <img src="https://img.shields.io/badge/Test_Driven_Development-282a36?style=for-the-badge&logo=jest&logoColor=8be9fd" />
-  <img src="https://img.shields.io/badge/Microservices-282a36?style=for-the-badge&logo=docker&logoColor=bd93f9" />
-</p>
-<br/>
-  <h3 align="center">⚡ System Architecture & Tech Stack</h3>
-  
-  <table border="0" width="100%">
-    <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">Frontend</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,vue,angular,threejs,bootstrap,tailwind,mui,sass,html,css,vite&perline=15&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">Backend</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,python,django,php,java,spring,cs,dotnet,mysql,postgres,mongodb,redis,kafka&perline=15&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">DevOps</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=docker,k8s,aws,azure,gcp,linux,bash,git,githubactions,jenkins,terraform,nginx,vercel&perline=15&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">Database & Cache</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,elasticsearch,cassandra,firebase,supabase,planetscale,dynamodb&perline=15&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-    <td width="15%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=solidity" alt="icon" width="40" height="40" />
-      <br/><b style="font-size:12px">Web3</b>
-    </td>
-    <td width="85%" valign="middle">
-      <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs&theme=dark" />
-      <img src="https://img.shields.io/badge/Metamask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Truffle-5E463A?style=for-the-badge&logo=truffle&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/BSC-F0B90B?style=for-the-badge&logo=binance&logoColor=black" height="28"/>
-      <img src="https://img.shields.io/badge/SOL-9945FF?style=for-the-badge&logo=solana&logoColor=white" height="28"/>
-    </td>
-  </tr>
-    <tr>
-      <td width="15%" align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="40" height="40" />
-        <br/><b style="font-size:12px">Tools</b>
-      </td>
-      <td width="85%" valign="middle">
-        <img src="https://skillicons.dev/icons?i=vscode,neovim,postman,figma,notion,discord,linux,apple,arch&perline=15&theme=dark" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <h3 align="center">📈 Coding Frequency</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trangc0de200&theme=react-dark&hide_border=true&area=true&bg_color=282a36" width="100%" />
-<br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=trangc0de200&style=flat-square&color=bd93f9&label=PROFILE+VIEWS" />
-  <h3 align="center">📫 Connect with me</h3>
-<p align="center">
-<a href="https://web.minhbee.vn" target="blank"><img src="https://img.shields.io/badge/Website-MINH%20BEE-bd93f9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="mailto:vantrang.work@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://fb.com/trangc0de200" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://linkedin.com/in/trangc0de200" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vantrang.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vantrang.work%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/trangc0de200">
+    <img src="https://img.shields.io/badge/LinkedIn-trangc0de200-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://web.minhbee.vn">
+    <img src="https://img.shields.io/badge/Website-minhbee.vn-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-<p align="center"> 
-  <img src="https://views.whatilearened.today/views/github/trangc0de200/views.svg" alt="Views" />
+<p>
+  <img src="https://img.shields.io/badge/Role-Senior_Developer-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Specialization-Fullstack_%26_Web3-0F766E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Vietnam-1D4ED8?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=trangc0de200&style=flat-square&color=7c3aed" />
 </p>
+
 </div>
+
+---
+
+## About Me
+
+I’m a **Senior Full-Stack & Web3 Developer** focused on building software that is **scalable, maintainable, and production-ready**.
+
+My work spans from crafting polished user-facing experiences to designing backend systems, cloud infrastructure, and blockchain-enabled products. I care deeply about clean architecture, engineering quality, and long-term maintainability.
+
+---
+
+## Professional Summary
+
+- Architect and build **modern full-stack applications**
+- Design **reliable backend services** and scalable APIs
+- Develop **Web3 integrations**, smart contract workflows, and decentralized products
+- Improve delivery quality through **testing, CI/CD, automation, and DevOps**
+- Turn business requirements into systems that are **clean, fast, and dependable**
+
+---
+
+## Core Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go,java,php,cs,solidity,rust&theme=dark" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,vue,angular,vite,threejs,tailwind,bootstrap,mui,sass,html,css&theme=dark" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,spring,dotnet&theme=dark" />
+</p>
+
+### Database & Messaging
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,kafka,elasticsearch,firebase,supabase,dynamodb&theme=dark" />
+</p>
+
+### DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,bash,git,githubactions,jenkins,terraform,nginx,vercel&theme=dark" />
+</p>
+
+### Web3 Ecosystem
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Ethers.js-111827?style=for-the-badge&logo=ethereum&logoColor=white" />
+  <img src="https://img.shields.io/badge/MetaMask-F59E0B?style=for-the-badge&logo=metamask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Truffle-6B4F3A?style=for-the-badge&logo=truffle&logoColor=white" />
+  <img src="https://img.shields.io/badge/BNB_Chain-F3BA2F?style=for-the-badge&logo=binance&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solana-7C3AED?style=for-the-badge&logo=solana&logoColor=white" />
+</p>
+
+---
+
+## Engineering Principles
+
+```ts
+const engineeringMindset = {
+  architecture: ["Clean Architecture", "Modular Design", "Scalable Systems"],
+  quality: ["SOLID Principles", "Testing", "Code Review", "Maintainability"],
+  delivery: ["CI/CD", "Automation", "Monitoring", "Performance Optimization"],
+  approach: "Build for long-term reliability, not just short-term completion."
+}
+```
+
+---
+
+## What I Focus On
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+
+### Full-Stack Products
+Building responsive, high-quality web applications with strong UX and solid engineering foundations.
+
+  </td>
+  <td valign="top" width="33%">
+
+### Backend Systems
+Designing APIs, services, and infrastructure that are clean, scalable, and easy to evolve.
+
+  </td>
+  <td valign="top" width="33%">
+
+### Web3 Solutions
+Creating blockchain-enabled products, wallet integrations, and smart contract workflows.
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Insights
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=trangc0de200&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=trangc0de200&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trangc0de200&theme=transparent&hide_border=true" />
+</div>
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="mailto:vantrang.work@gmail.com"><strong>Email</strong></a><br/>
+  <a href="https://linkedin.com/in/trangc0de200"><strong>LinkedIn</strong></a><br/>
+  <a href="https://fb.com/trangc0de200"><strong>Facebook</strong></a><br/>
+  <a href="https://web.minhbee.vn"><strong>Website</strong></a>
+</p>
+
+---
+
+<div align="center">
+
+### *Build clean. Ship confidently. Scale with purpose.*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e293b,100:0f172a&height=100&section=footer" />
