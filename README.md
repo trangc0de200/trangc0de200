@@ -115,16 +115,6 @@ const engineeringMindset = {
 
 ## 📊 GitHub Insights
 
-<!--
-  ⚠️ 2 card dưới đây dùng github-readme-stats.
-  Instance công khai hay bị rate-limit (vỡ ảnh). Sau khi deploy instance Vercel riêng,
-  thay "github-readme-stats.vercel.app" bằng domain của bạn, ví dụ "github-readme-stats-trang.vercel.app".
--->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trangc0de200&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&title_color=d97757&icon_color=d97757&text_color=c9c5bd&bg_color=16140f" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=d97757&text_color=c9c5bd&bg_color=16140f" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trangc0de200&hide_border=true&background=16140f&stroke=8a5a44&ring=d97757&fire=d97757&currStreakLabel=d97757&sideLabels=c9c5bd&dates=8a7d70&currStreakNum=faf9f5&sideNums=faf9f5" />
 </div>
@@ -143,6 +133,21 @@ const engineeringMindset = {
 <a href="https://linkedin.com/in/trangc0de200"><img src="https://img.shields.io/badge/LinkedIn-8a5a44?style=for-the-badge&logo=linkedin&logoColor=faf9f5" /></a>
 <a href="https://fb.com/trangc0de200"><img src="https://img.shields.io/badge/Facebook-b8826a?style=for-the-badge&logo=facebook&logoColor=faf9f5" /></a>
 <a href="https://web.minhbee.vn"><img src="https://img.shields.io/badge/Website-16140f?style=for-the-badge&logo=googlechrome&logoColor=faf9f5" /></a>
+
+</div>
+
+<br/>
+
+## ☕ Support
+
+<div align="center">
+
+If my work helps you, consider buying me a coffee — it keeps the late-night commits going.
+
+<!-- ⚠️ Thay "trangc0de200" bằng username Buy Me a Coffee thật của bạn -->
+<a href="https://buymeacoffee.com/trangc0de200">
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-d97757?style=for-the-badge&logo=buymeacoffee&logoColor=16140f" />
+</a>
 
 </div>
 
