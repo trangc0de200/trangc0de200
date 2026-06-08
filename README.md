@@ -115,9 +115,14 @@ const engineeringMindset = {
 
 ## 📊 GitHub Insights
 
+<!--
+  ⚠️ 2 card dưới đây dùng github-readme-stats.
+  Instance công khai hay bị rate-limit (vỡ ảnh). Sau khi deploy instance Vercel riêng,
+  thay "github-readme-stats.vercel.app" bằng domain của bạn, ví dụ "github-readme-stats-trang.vercel.app".
+-->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trangc0de200&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=d97757&icon_color=d97757&text_color=c9c5bd&bg_color=16140f" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&hide_border=true&langs_count=8&title_color=d97757&text_color=c9c5bd&bg_color=16140f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=trangc0de200&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400&title_color=d97757&icon_color=d97757&text_color=c9c5bd&bg_color=16140f" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trangc0de200&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=d97757&text_color=c9c5bd&bg_color=16140f" />
 </div>
 
 <div align="center">
