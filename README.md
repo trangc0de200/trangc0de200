@@ -91,9 +91,6 @@ Blockchain-enabled products, wallet integrations, and smart contract workflows.
     <td><b>Web3</b></td>
     <td>
       <img src="https://skillicons.dev/icons?i=solidity,rust,ipfs&theme=dark" />
-      <img src="https://img.shields.io/badge/Ethers.js-16140f?style=for-the-badge&logo=ethereum&logoColor=faf9f5" />
-      <img src="https://img.shields.io/badge/Hardhat-8a5a44?style=for-the-badge&logo=ethereum&logoColor=faf9f5" />
-      <img src="https://img.shields.io/badge/Solana-d97757?style=for-the-badge&logo=solana&logoColor=faf9f5" />
     </td>
   </tr>
 </table>
